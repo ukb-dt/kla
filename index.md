@@ -25,7 +25,7 @@ It began with two observations that seemed unrelated:
 
 First: driving through Kampala at 3 a.m., arriving home safely, with only the cloudiest memory of the journey. The steering happened. The turns were made. Yet the conscious narrator was barely consulted.
 
-Second: watching Microsoft and OpenAI, Oracle and Sun Bank, Nvidia and xAI—all carrying their own Apollonian intentions, their own energy functions $E(t | x)$—somehow find each other and lock into synchronized orbits. Multi-billion-dollar partnerships emerging not from grand strategy meetings but from accumulated drift, stochastic openness, small perturbations that compound over time into crystallized inevitability.
+Second: watching Microsoft and OpenAI, Oracle and Sun Bank, Nvidia and xAI—all carrying their own Apollonian intentions, their own energy functions $E(t \| x)$—somehow find each other and lock into synchronized orbits. Multi-billion-dollar partnerships emerging not from grand strategy meetings but from accumulated drift, stochastic openness, small perturbations that compound over time into crystallized inevitability.
 
 What connects a solitary night drive to trillion-dollar corporate synchronicities? What connects two people leaving a hangout at an unplanned hour, drifting into conversation that neither scripted, arriving at 3 a.m. in a shared attractor they couldn't have predicted?
 
@@ -37,7 +37,7 @@ The framework is deceptively simple. Each agent—whether a person, a corporatio
 
 $$\int (E + \epsilon) \, dt + C_x$$
 
-- $E(t|x)$ is Apollonian intention: goal-directed energy
+- $E(t \|x)$ is Apollonian intention: goal-directed energy
 - $\epsilon$ is Dionysian openness: willingness to be perturbed
 - $C_x$ is the seed constant: your inherited constraints, your roots in the soil
 
@@ -58,7 +58,7 @@ The book explores this pattern across multiple scales:
 
 **Part I: The Topography of a Night Drive** begins with the solitary case—how a single agent (you) flows through Kampala's nocturnal landscape, guided by curvature, habit, and the flattened topology of night. This establishes the mathematical grammar: energy, derivatives, integration, constants.
 
-**Part II: Emergent Synchronicity** introduces the multi-agent dynamics. How do two people, two corporations, two nations—each with their own $E(t|x)$—find each other? We map this through:
+**Part II: Emergent Synchronicity** introduces the multi-agent dynamics. How do two people, two corporations, two nations—each with their own $E(t \|x)$—find each other? We map this through:
 - Microsoft's initial 49% stake in OpenAI (strong synchronicity)
 - Drift to 29% (perturbations compound)
 - Mirror patterns elsewhere: Anthropic + Microsoft + Nvidia, Oracle + OpenAI + Sun Bank, Nvidia + xAI + Saudi Arabia
